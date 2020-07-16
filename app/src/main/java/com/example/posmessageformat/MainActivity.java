@@ -7,9 +7,9 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.iso8583.core.Iso8583Message;
-import com.example.iso8583.core.Iso8583MessageFactory;
-import com.example.iso8583.quickstart.SingletonFactory;
+import com.iso8583.core.Iso8583Message;
+import com.iso8583.core.Iso8583MessageFactory;
+import com.iso8583.quickstart.SingletonFactory;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     private static final String TAG = "MainActivity";
