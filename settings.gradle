@@ -1,0 +1,3 @@
+include ':iso8583'
+include ':app'
+rootProject.name = "PosMessageFormat"
