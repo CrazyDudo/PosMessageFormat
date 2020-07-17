@@ -18,11 +18,14 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.CrazyDudo:PosMessageFormat:Tag'
+
+	    implementation 'com.github.CrazyDudo:PosMessageFormat:1.0'
+
 	}
 
 
 
+ 
 
 
 #### todo:
